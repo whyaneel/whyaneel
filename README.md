@@ -1,5 +1,5 @@
 ### Summary
-Senior Technical Consultant with 10 years of experience in the Software Industry, with expertise dealing with MicroServices Architectures, Event-driven Architectures, Process-driven applications. Subject Matter Expert in Web Content Management System with multi-lingual & multi-site delivery using OpenText products.
+A Tech-Savvy Professional with 10 years of experience in the Software Industry, with expertise dealing with MicroServices Architectures, Event-driven Architectures, Process-driven applications. Subject Matter Expert in Web Content Management System with multi-lingual & multi-site delivery using OpenText products.
 
 ### Specialties:
 - Java, Kotlin, and Spring Boot
