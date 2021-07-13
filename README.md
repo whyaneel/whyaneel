@@ -1,21 +1,21 @@
 ### Summary
 A Tech-Savvy Professional with 10 years of experience in the Software Industry, with expertise dealing with MicroServices Architectures, Event-driven Architectures, Process-driven applications. Subject Matter Expert in Web Content Management System with multi-lingual & multi-site delivery using OpenText products.
 
-### Specialties:
+### Specialties ⚡
 - Java, Kotlin, and Spring Boot
-- Azure Spring Cloud
 - Apache Kafka and Confluent Platform
-- Flowable
-- Tableau, Tableau Server 2019.4, Tableau REST API 3.6
+- Flowable (Business Intelligent Automation Platform)
+- Azure Spring Cloud
 - OpenText (Teamsite 8.2, 16.x), XML/ XSLT
+- Tableau, Tableau Server 2019.4, Tableau REST API 3.6
 
-### My Articles & Work:
+### My Articles & Work 🔭
+- Ksqldb Simulation - https://github.com/whyaneel/ksqldb
+- Flowable - https://github.com/whyaneel/flowable
 - Azure Spring Cloud Primer - https://lnkd.in/gPXxtgi
-- Flowable - https://github.com/whyaneel/flowable-boilerplate
 - Tableau Integration - https://lnkd.in/grUN3fK
-- WebSockets - https://github.com/whyaneel/book-a-meeting-room
 
-### Connect with me
+### Connect with me 📫 
 - https://www.linkedin.com/in/g-anil/
 - EMAIL: whyaneel@gmail.com
 
