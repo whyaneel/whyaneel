@@ -1,5 +1,9 @@
 ### Summary
-A Tech-Savvy Professional with 10 years of experience in the Software Industry, with expertise dealing with MicroServices Architectures, Event-driven Architectures, Process-driven applications. Subject Matter Expert in Web Content Management System with multi-lingual & multi-site delivery using OpenText products.
+
+A Tech-Savvy, Business-Savvy Professional with more than 1.2 decades of experience in the Software Industry.
+- Expertise in dealing with Event-driven Microservices, Intelligent Process Automation, and Containerization.
+- Well-versed in designing & developing Cloud-native applications using PCF, and Kubernetes.
+- Subject Matter Expert in Enterprise Content Management Systems with multi-site delivery using OpenText products.
 
 ### Specialties ⚡
 - Java, Kotlin, and Spring Boot
